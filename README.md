@@ -1,24 +1,49 @@
 # 💫 About Me:
-Hi, I'm Sushil Lovanshi 👨‍💻  <br>Cybersecurity Enthusiast & SOC Analyst Aspirant.<br><br>I have hands-on experience in IT support, Linux administration, and basic cybersecurity operations.  <br>Currently learning Penetration Testing and SOC Monitoring through TryHackMe.<br><br>Skilled in Linux, Windows, Active Directory (basic), and Network Security fundamentals.  <br>Passionate about threat detection and securing systems.<br><br>📫 Email: sushillovanshi8@gmail.com
+Hi, I'm **Sushil Lovanshi** 👨‍💻  
+**Cybersecurity Enthusiast | SOC Analyst Aspirant**
 
+I have hands-on experience in IT support, Linux administration, and foundational cybersecurity operations.  
+Currently learning **Penetration Testing** and **SOC Monitoring** through TryHackMe.
+
+Skilled in **Linux, Windows, Active Directory (Basic), and Network Security fundamentals**.  
+Passionate about **threat detection, incident response, and securing systems**.
+
+📫 Email: sushillovanshi8@gmail.com
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sushil Lovanshi) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sushil Lovanshi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushillovanshi8@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushil-lovanshi)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushillovanshi8@gmail.com)
+
+---
+
 # 💻 Tech Stack:
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)] [![Cyber Security](https://img.shields.io/badge/Cyber%20security) [![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing)[![Security Operations Center](https://img.shields.io/badge/Security%20Operations%20Center)[![Per Security](https://img.shields.io/badge/Per%20Security)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-FF0000?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-6A0DAD?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC-1E90FF?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sushillovanshi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sushillovanshi&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Sushillovanshi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
+![](https://nirzak-streak-stats.vercel.app/?user=Sushillovanshi&theme=dark&hide_border=true)
 
+---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sushillovanshi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sushillovanshi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Sushillovanshi&icon=0&color=0)](https://visitcount.itsvg.in)
