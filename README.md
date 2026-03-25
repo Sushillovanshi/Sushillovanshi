@@ -8,31 +8,34 @@ Currently learning **Penetration Testing** and **SOC Monitoring** through TryHac
 Skilled in **Linux, Windows, Active Directory (Basic), and Network Security fundamentals**.  
 Passionate about **threat detection, incident response, and securing systems**.
 
-📫 Email: sushillovanshi8@gmail.com
+📫 Email: sushillovanshi8@gmail.com  
+
+💡 *"Security is not a product, but a process — continuous monitoring is the key to defense."*
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushil-lovanshi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sushillovanshi)
+[![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sushillovanshi8@gmail.com)
 
 ---
 
 # 💻 Tech Stack:
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-003366?style=for-the-badge&logo=microsoft&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
-![Cyber Security](https://img.shields.io/badge/Cyber%20Security-FF0000?style=for-the-badge)
-![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-6A0DAD?style=for-the-badge)
-![SOC](https://img.shields.io/badge/SOC-1E90FF?style=for-the-badge)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-grey?style=for-the-badge)
+![Cyber Security](https://img.shields.io/badge/Cyber%20Security-red?style=for-the-badge)
+![Penetration Testing](https://img.shields.io/badge/Penetration%20Testing-orange?style=for-the-badge)
+![SOC](https://img.shields.io/badge/SOC%20Operations-darkgreen?style=for-the-badge)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge)
 
 ---
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Sushillovanshi&theme=dark&hide_border=true&include_all_commits=true&count_private=true)  
-![](https://nirzak-streak-stats.vercel.app/?user=Sushillovanshi&theme=dark&hide_border=true)
+![](https://nirzak-streak-stats.vercel.app/?user=Sushillovanshi&theme=dark&hide_border=true)  
 
 ---
 
@@ -47,3 +50,5 @@ Passionate about **threat detection, incident response, and securing systems**.
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Sushillovanshi&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM -->
